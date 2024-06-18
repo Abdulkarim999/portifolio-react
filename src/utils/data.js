@@ -35,3 +35,30 @@ export const SKILLS = [
 		],
 	},	
 ];
+
+export const WORK_EXPERIENCE = [
+	{
+		title: " Senior Frontent Developer at tech innovations",
+		date: "January 2022 - Present",
+		responsibilities: [
+			"Managing softwares",
+			"deploying websites",	
+		],
+	},
+	{
+		title: "Junior Web Developer at Digital Solution",
+		date: "June 2022 - December 2022",
+		responsibilities: [
+			"",
+			"",	
+		],
+	},
+    {
+	    title: "Frontend Intern at Web Studio",
+		date: "May 2019 - August 2019",
+		responsibilities: [
+			"",
+			"",
+		],
+	},
+];
